@@ -9,6 +9,7 @@
 - Your code should use the PEP 8 style (version 1.7.x)
 - All your files must be executable
 
+
 **Write a method that determines if a given data set represents a valid UTF-8 encoding.**
 
 - Prototype: def validUTF8(data)
